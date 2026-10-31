@@ -18,13 +18,24 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science** at Ajay Kumar Garg Engineering College, Ghaziabad (2023–2027) · CGPA **8.67/10**
-- 💼 Former **MERN Stack Intern at ConsultIT Technologies**: built the NGO section of the DMS Aarohi Musical Society website, including an admin panel that lets non-technical staff update content themselves
-- 🤖 Currently building **multi-agent AI systems** with LangGraph, LangChain and RAG on top of a microservices backend
-- 🧩 Into **system design**: microservices, REST API design, component-based architecture
-- 🧠 **500+ problems** solved on LeetCode
-- 📫 Reach me at **mayurgarg2005@gmail.com**
-- ⚡ Fun fact: my AI platform has 8 agents and I still debug with `console.log`
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>B.Tech in Computer Science</b> at Ajay Kumar Garg Engineering College, Ghaziabad (2023–2027) · CGPA <b>8.67/10</b></li>
+        <li>💼 Former <b>MERN Stack Intern at ConsultIT Technologies</b>: built the NGO section of the DMS Aarohi Musical Society website, including an admin panel that lets non-technical staff update content themselves</li>
+        <li>🤖 Currently building <b>multi-agent AI systems</b> with LangGraph, LangChain and RAG on top of a microservices backend</li>
+        <li>🧩 Into <b>system design</b>: microservices, REST API design, component-based architecture</li>
+        <li>🧠 <b>500+ problems</b> solved on LeetCode</li>
+        <li>📫 Reach me at <b>mayurgarg2005@gmail.com</b></li>
+        <li>⚡ Fun fact: my AI platform has 8 agents and I still debug with <code>console.log</code></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="coding.gif" width="100%" alt="Terminal animation: a typical dev day"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
